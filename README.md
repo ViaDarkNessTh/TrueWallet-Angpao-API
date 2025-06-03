@@ -21,7 +21,7 @@
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/yourusername/truemoney-gift-voucher.git
+   git clone https://github.com/ViaDarkNessTh/truemoney-gift-voucher.git
    cd truemoney-gift-voucher
    ```
 
